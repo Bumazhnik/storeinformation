@@ -1,2 +1,2 @@
-# storeinformation.github.io
- https://bumazhnik.github.io/storeinformation.github.io/
+# storeinformation
+ https://bumazhnik.github.io/storeinformation/
